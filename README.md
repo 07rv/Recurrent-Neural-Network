@@ -6,3 +6,10 @@ it is copied and sent back into the recurrent network. For making a decision, it
 ## Predicted Google stock price 
 <b>Dataset<b/>
 https://www.kaggle.com/medharawat/google-stock-price<br/>
+  
+  <table >
+    <tr>
+       <th><img src="rnn/Histogram.png" alt="Girl in a jacket"></th>
+       <th><img src="rnn/stock-price.png" alt="Girl in a jacket"></th>
+    </tr>
+  </table>
